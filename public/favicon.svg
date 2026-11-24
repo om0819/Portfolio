@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Om Pandey — OP logo</title>
+  <desc id="desc">Peach and terracotta OP monogram for a developer and AI portfolio.</desc>
+  <defs>
+    <linearGradient id="peach" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD3B8"/>
+      <stop offset="52%" stop-color="#F58E70"/>
+      <stop offset="100%" stop-color="#9E4436"/>
+    </linearGradient>
+    <linearGradient id="letter" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9E4436"/>
+      <stop offset="100%" stop-color="#5C2928"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="#FFF4EC"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="url(#peach)" stroke-width="2.5"/>
+  <path d="M28.5 15.5a16.5 16.5 0 1 0 0 33a16.5 16.5 0 0 0 0-33Zm0 7a9.5 9.5 0 1 1 0 19a9.5 9.5 0 0 1 0-19Z" fill="url(#peach)" fill-rule="evenodd"/>
+  <path d="M32 20h10.5a9.5 9.5 0 0 1 0 19H37v10h-7V20Zm7 7v5h3.5a2.5 2.5 0 0 0 0-5H39Z" fill="url(#letter)"/>
+  <path d="m19 34 5-6 4 4 4-5" fill="none" stroke="#FFF4EC" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="46.5" cy="17.5" r="2.2" fill="#F58E70"/>
+  <path d="M46.5 13.5v-2m0 12v-2m-4-4h-2m12 0h-2" stroke="#F58E70" stroke-width="1.2" stroke-linecap="round"/>
+</svg>
